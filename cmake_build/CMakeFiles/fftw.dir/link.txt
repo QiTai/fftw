@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/fftw.dir/src/main.o CMakeFiles/fftw.dir/src/FFTW_solver.o  -o fftw -rdynamic -Wl,-Bstatic -lfftw3 -Wl,-Bdynamic 

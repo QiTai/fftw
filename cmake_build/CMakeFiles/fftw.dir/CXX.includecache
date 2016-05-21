@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/FFTW_solver.h
+fftw3.h
+-
+iostream
+-
+
+/home/charles/Documents/myCode/fftw/fftw/src/FFTW_solver.cpp
+FFTW_solver.h
+/home/charles/Documents/myCode/fftw/fftw/src/FFTW_solver.h
+
+/home/charles/Documents/myCode/fftw/fftw/src/main.cpp
+FFTW_solver.h
+/home/charles/Documents/myCode/fftw/fftw/src/FFTW_solver.h
+
