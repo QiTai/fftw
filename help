@@ -1,4 +1,0 @@
-# to generate example.pro
-qmake -project
-
-
